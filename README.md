@@ -1,2 +1,3 @@
 # EFV
-Electric Fields Visualization Python
+Electric Fields Visualization using Python 2.7
+Requires tkinter
